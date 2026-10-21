@@ -1,0 +1,22 @@
+
+# Arquivos compilados
+bin/
+out/
+target/
+*.class
+
+# Credenciais e arquivos locais
+.env
+.env.*
+*.key
+*.pem
+secrets.properties
+
+# Configuracoes locais
+.vscode/launch.json
+
+# Arquivos temporarios
+*.log
+.DS_Store
+
+dados-academicos.dat

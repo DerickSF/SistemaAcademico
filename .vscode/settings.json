@@ -1,0 +1,13 @@
+
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-27",
+            "path": "C:\\Program Files\\java\\jdk-27",
+            "default": true
+        }
+    ]
+}
